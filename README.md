@@ -20,6 +20,8 @@
 
 <div align="center"> 
   <a href = "mailto:costa.gabriel.silva21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+![snake gif](https://github.com/olliveira-gabriel/olliveira-gabriel/blob/output/github-contribution-grid-snake.gif)
     
 :construction: Prefil em construção :construction:
 </div>
