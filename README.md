@@ -20,8 +20,6 @@
 
 ## 🚀 Tecnologias
 
-## 🚀 Tecnologias
-
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
   <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
