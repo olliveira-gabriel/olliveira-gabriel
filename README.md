@@ -47,10 +47,3 @@
 </a>
 
 </div>
-
----
-
----
-
-🚧 **Perfil em construção** 🚧
-```
