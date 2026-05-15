@@ -5,18 +5,6 @@
 📚 Estudando **HTML, CSS, JavaScript, Python e React**  
 🚀 Construindo projetos para evoluir cada vez mais na programação  
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/olliveira-gabriel">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliveira-gabriel&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=olliveira-gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
----
 
 ## 🚀 Tecnologias
 
